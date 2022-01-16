@@ -22,6 +22,11 @@
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][lua]
+[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore//80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
+
+<br />
 
 ## My projects:
 
@@ -42,3 +47,6 @@
 [mongodb]: https://wikipedia.org/wiki/MongoDB
 [git]: https://wikipedia.org/wiki/Git
 [github]: https://wikipedia.org/wiki/GitHub
+[vue]: https://wikipedia.org/wiki/Vue.js
+[lua]: https://wikipedia.org/wiki/Lua
+[json]: https://wikipedia.org/wiki/JSON
