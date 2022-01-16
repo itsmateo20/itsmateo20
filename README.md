@@ -9,35 +9,41 @@
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+
 
 <br />
 
 ## Languages & Tools:
 
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongodb]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/lua/lua.png" />][lua]
-[<img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore//80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />][json]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/visualstudiocode.svg" />][vscode]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" />][html]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" />][css]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" />][javascript]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/node-dot-js.svg" />][nodejs]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />][mongodb]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" />][git]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" />][github]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/vue-dot-js.svg" />][vue]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/lua.svg" />][lua]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/json.svg" />][json]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/python.svg" />][python]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svgg" />][typescript]
 
 <br />
 
 ## My projects:
 
 - 🤖 My Discord bot [Draid][draid]
+- 🌎 Websites: [<img align="left" width="26px" src="https://draid.ddns.net/img/bot1.png" />][draid][Draid][draid] | [<img align="left" width="26px" src="https://gibporad.ddns.net/img/giboon.png" />][gibporad][GiboonPoradnia][gibporad] | [ItsMateo20][https://itsmateo20.ddns.net]
 
 
 [website]: https://itsmateo20.ddns.net
 [twitter]: https://twitter.com/ItsMateo20
 [youtube]: https://youtube.com/ItsMateo20
 [instagram]: https://instagram.com/ItsMateo20
-[draid]: https://draid.ddns.net/invite
+[draid]: https://draid.ddns.net
+[gibporad]: https://gibporad.ddns.net
 
 [vscode]: https://wikipedia.org/wiki/Visual_Studio_Code
 [html]: https://wikipedia.org/wiki/HTML
@@ -50,3 +56,5 @@
 [vue]: https://wikipedia.org/wiki/Vue.js
 [lua]: https://wikipedia.org/wiki/Lua
 [json]: https://wikipedia.org/wiki/JSON
+[python]: https://wikipedia.org/wiki/Python
+[typescript]: https://wikipedia.org/wiki/TypeScript
