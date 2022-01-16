@@ -28,20 +28,21 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/lua.svg" />][lua]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/json.svg" />][json]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/python.svg" />][python]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svgg" />][typescript]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" />][typescript]
 
 <br />
 
 ## My projects:
 
 - 🤖 My Discord bot [Draid][draid]
-- 🌎 Websites: [<img align="left" width="26px" src="https://draid.ddns.net/img/bot1.png" />][draid][Draid][draid] | [<img align="left" width="26px" src="https://gibporad.ddns.net/img/giboon.png" />][gibporad][GiboonPoradnia][gibporad] | [ItsMateo20][https://itsmateo20.ddns.net]
+- 🌎 Websites: [Draid][draid] | [GiboonPoradnia][gibporad] | ItsMateo20
 
 
 [website]: https://itsmateo20.ddns.net
 [twitter]: https://twitter.com/ItsMateo20
 [youtube]: https://youtube.com/ItsMateo20
 [instagram]: https://instagram.com/ItsMateo20
+[discord]: https://discord.com/users/630812692659044352
 [draid]: https://draid.ddns.net
 [gibporad]: https://gibporad.ddns.net
 
