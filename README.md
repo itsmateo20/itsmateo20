@@ -35,7 +35,7 @@
 
 <br />
 
-## My projects:
+## Projects:
 
 - 🤖 My Discord bot [Draid][draid]
 - 🌎 Websites: [Draid][draid] | [GiboonPoradnia][gibporad] | ItsMateo20
