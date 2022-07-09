@@ -32,6 +32,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/python.svg" />][python]
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" />][typescript]
 
+
 <br />
 
 ## My projects:
