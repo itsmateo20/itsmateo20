@@ -1,4 +1,4 @@
-### Hello, I'm Mateusz and still a student! ([ItsMateo20][website]) 👋 
+### Hello, I'm Mateusz and still a student! (ItsMateo20) 👋 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352 )](https://discord.com/users/630812692659044352)
 
