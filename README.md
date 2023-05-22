@@ -33,7 +33,7 @@
 [<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" />][typescript]
 
 
-[website]: https://itsmateo20.ddns.net
+<!-- [website]: https://itsmateo20.ddns.net -->
 [twitter]: https://twitter.com/ItsMateo20
 [youtube]: https://youtube.com/ItsMateo20
 [instagram]: https://instagram.com/ItsMateo20
