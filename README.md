@@ -8,29 +8,28 @@
 ## Social Media:
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/youtube.svg" />][youtube]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/discord.svg" />][discord]
 
 
 <br />
 
 ## Languages & Tools:
 
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/visualstudiocode.svg" />][vscode]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/html5.svg" />][html]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/css3.svg" />][css]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/javascript.svg" />][javascript]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/node-dot-js.svg" />][nodejs]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/mongodb.svg" />][mongodb]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/git.svg" />][git]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/github.svg" />][github]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/vue-dot-js.svg" />][vue]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/lua.svg" />][lua]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/json.svg" />][json]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/python.svg" />][python]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3/icons/typescript.svg" />][typescript]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/visualstudiocode.svg" />][vscode]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/html5.svg" />][html]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/css3.svg" />][css]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/javascript.svg" />][javascript]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/node-dot-js.svg" />][nodejs]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/mongodb.svg" />][mongodb]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/git.svg" />][git]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/github.svg" />][github]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/vue-dot-js.svg" />][vue]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/lua.svg" />][lua]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/json.svg" />][json]
+[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/typescript.svg" />][typescript]
 
 
 <!-- [website]: https://itsmateo20.ddns.net -->
