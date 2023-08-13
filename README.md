@@ -8,7 +8,7 @@
 ## Social Media:
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/youtube.svg" />][youtube]
+[<img align="left" style="color=#ffffff" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/discord.svg" />][discord]
