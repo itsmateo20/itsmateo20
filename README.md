@@ -1,8 +1,8 @@
-### Hello, I'm Mateusz and still a student! 👋 
+## Hello, I'm Mateusz and still a student! 👋 
 
 <!-- [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352 )](https://discord.com/users/630812692659044352) -->
 
-## Social Media:
+### Social Media:
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" style="color=#fffffff" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/youtube.svg" />][youtube]
