@@ -1,4 +1,4 @@
-### Hello, I'm Mateusz and still a student! (ItsMateo20) 👋 
+### Hello, I'm Mateusz and still a student! 👋 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352 )](https://discord.com/users/630812692659044352)
 
@@ -8,28 +8,10 @@
 ## Social Media:
 
 <!-- [<img align="left" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-[<img align="left" style="color=#ffffff" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/youtube.svg" />][youtube]
+[<img align="left" style="color=#fffffff" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/youtube.svg" />][youtube]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/discord.svg" />][discord]
-
-
-<br />
-
-## Languages & Tools:
-
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/visualstudiocode.svg" />][vscode]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/html5.svg" />][html]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/css3.svg" />][css]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/javascript.svg" />][javascript]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/node-dot-js.svg" />][nodejs]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/mongodb.svg" />][mongodb]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/git.svg" />][git]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/github.svg" />][github]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/vue-dot-js.svg" />][vue]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/lua.svg" />][lua]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/json.svg" />][json]
-[<img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@9.10.0/icons/typescript.svg" />][typescript]
 
 
 <!-- [website]: https://itsmateo20.ddns.net -->
@@ -37,17 +19,3 @@
 [youtube]: https://youtube.com/ItsMateo20
 [instagram]: https://instagram.com/ItsMateo20
 [discord]: https://discord.com/users/630812692659044352
-
-[vscode]: https://wikipedia.org/wiki/Visual_Studio_Code
-[html]: https://wikipedia.org/wiki/HTML
-[css]: https://wikipedia.org/wiki/CSS
-[javascript]: https://wikipedia.org/wiki/JavaScript
-[nodejs]: https://wikipedia.org/wiki/Node.js
-[mongodb]: https://wikipedia.org/wiki/MongoDB
-[git]: https://wikipedia.org/wiki/Git
-[github]: https://wikipedia.org/wiki/GitHub
-[vue]: https://wikipedia.org/wiki/Vue.js
-[lua]: https://wikipedia.org/wiki/Lua
-[json]: https://wikipedia.org/wiki/JSON
-[python]: https://wikipedia.org/wiki/Python
-[typescript]: https://wikipedia.org/wiki/TypeScript
