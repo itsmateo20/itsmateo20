@@ -10,7 +10,7 @@ I'm a developer who codes for fun, specializing in JavaScript, EJS, JSON, CSS, L
 - **Languages:** JavaScript, EJS, JSON, CSS, Lua, and more.
 - **Tools:** Visual Studio Code, Git, GitHub
 - **Databases:** MongoDB, Sqlite3
-- **Frameworks:** Discord.js
+- **Frameworks:** Discord.js, Express.js, Vue.js, and some more but I don't remember the names.
 
 ## 🌟 Projects
 
