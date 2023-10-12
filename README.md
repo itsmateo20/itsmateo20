@@ -27,7 +27,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 ## 🎮 My Games
 
-- **Our Dreams (AlPHA):** A [Roblox](https://www.roblox.com/) horror game built using the Roblox free-to-use program [Roblox Studio](https://create.roblox.com/), the game is focused about dreams that we all have had in our lives. [Check it out!](https://www.roblox.com/games/14422530814)
+- **Our Dreams (ALPHA):** A [Roblox](https://www.roblox.com/) horror game built using the Roblox free-to-use program [Roblox Studio](https://create.roblox.com/), the game is focused about dreams that we all have had in our lives. [Check it out!](https://www.roblox.com/games/14422530814)
 
 ## 📫 Let's Connect
 
