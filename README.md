@@ -34,6 +34,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - Discord: @itsmateo20 ([ItsMateo20](https://discord.com/users/630812692659044352))
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
 - Twitter: @ItsMateo20 ([It'sMateo20](https://twitter.com/ItsMateo20))
+- Youtube: @ItsMateo20 ([ItsMateo20](https://www.youtube.com/@ItsMateo20))
 - And much more social media platforms using the username "ItsMateo20."
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
