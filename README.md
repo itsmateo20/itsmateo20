@@ -25,6 +25,10 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
   [![Lines Of Code](https://tokei.rs/b1/github/ItsMateo20/Cloud?style=for-the-badge&color=%23103e94)](https://github.com/ItsMateo20/Cloud)
 
+- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [open-source](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) [preview website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis)
+
+  [![Lines Of Code](https://tokei.rs/b1/github/ItsMateo20/Facebook-Messenger-Data-Analysis?style=for-the-badge&color=%23103e94)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
+
 ## 🎮 My Games
 
 - **Our Dreams (ALPHA):** A [Roblox](https://www.roblox.com/) horror game built using the Roblox free-to-use program [Roblox Studio](https://create.roblox.com/), the game is focused about dreams that we all have had in our lives. [Check it out!](https://www.roblox.com/games/14422530814)
