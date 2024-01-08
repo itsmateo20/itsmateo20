@@ -14,6 +14,9 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - **Databases:** MongoDB, Sqlite3
 - **Frameworks:** Discord.js, Express.js, Vue.js, Node.js, and some more but I don't remember the names.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed)](https://github.com/ItsMateo20)
+
+
 ## 🌟 My Projects
 
 - **Draid Bot (Retired):** My Discord Bot, [Draid](https://draid.vercel.app/goodbye), served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community. You can explore the [Goodbye page](https://draid.vercel.app/goodbye) for a nostalgic journey.
@@ -23,12 +26,14 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 
 - **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud).
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true)](https://github.com/ItsMateo20/Cloud)
 
-  [![Lines Of Code](https://tokei.rs/b1/github/ItsMateo20/Cloud?style=for-the-badge&color=%23103e94)](https://github.com/ItsMateo20/Cloud)
 
-- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [open-source](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) [preview website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis)
+- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [open-source](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) [preview website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
-  [![Lines Of Code](https://tokei.rs/b1/github/ItsMateo20/Facebook-Messenger-Data-Analysis?style=for-the-badge&color=%23103e94)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
+
 
 ## 🎮 My Games
 
@@ -40,6 +45,6 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
 - Twitter: @ItsMateo20 ([It'sMateo20](https://twitter.com/ItsMateo20))
 - Youtube: @ItsMateo20 ([ItsMateo20](https://www.youtube.com/@ItsMateo20))
-- And much more social media platforms using the username "ItsMateo20."
+- And much more social media platforms using the username "ItsMateo20".
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
