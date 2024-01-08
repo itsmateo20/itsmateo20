@@ -14,7 +14,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - **Databases:** MongoDB, Sqlite3
 - **Frameworks:** Discord.js, Express.js, Vue.js, Node.js, and some more but I don't remember the names.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed)](https://github.com/ItsMateo20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/ItsMateo20)
 
 
 ## 🌟 My Projects
@@ -27,13 +27,16 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 - **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud).
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true)](https://github.com/ItsMateo20/Cloud)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Cloud)
 
 
 - **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [open-source](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) [preview website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
 
+- **Premid Notespace Presence [UPCOMING]:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [presence](https://premid.app/store/presences/Notespace) [open-source](https://github.com/Premid/Presences/Websites/N/Notespace)
+
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Premid&repo=Presences&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/Premid/Presences/Websites/N/Notespace)
 
 ## 🎮 My Games
 
