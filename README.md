@@ -37,9 +37,9 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
 
-- **Premid Notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [presence](https://premid.app/store/presences/Notespace) [open-source](https://github.com/Premid/Presences/Websites/N/Notespace)
+- **Premid Notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [presence](https://premid.app/store/presences/Notespace) [open-source](https://github.com/PreMiD/Presences/tree/main/websites/N/Notespace)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Premid&repo=Presences&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/Premid/Presences/Websites/N/Notespace)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Premid&repo=Presences&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/PreMiD/Presences/tree/main/websites/N/Notespace)
 
 ## 🎮 My Games
 
