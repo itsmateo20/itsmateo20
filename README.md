@@ -29,8 +29,8 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
   [![Website](https://img.shields.io/website?up_message=ONLINE&up_color=%2310946a&down_message=OFFLINE&down_color=%23941010&url=https%3A%2F%2Fdraid.vercel.app&style=for-the-badge&label=Draid%20Dashboard&labelColor=%23103e94)](https://draid.vercel.app)
 
 
-- **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud).
-  
+- **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
+
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Cloud)
 
 
