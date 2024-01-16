@@ -34,13 +34,17 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Cloud)
 
 
-- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [open-source](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) [preview website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
+- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
+  
 
-- **Premid Notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [website](https://notespace.edu.pl/) [presence](https://premid.app/store/presences/Notespace) [open-source](https://github.com/PreMiD/Presences/tree/main/websites/N/Notespace)
+- **Premid Presences:** Check out my presences on [PreMiD](https://premid.app/users/630812692659044352). [Github Pull Requests](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20)</summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Premid&repo=Presences&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/PreMiD/Presences/tree/main/websites/N/Notespace)
+  - **Notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/Notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/Notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Website](https://notespace.edu.pl/)
+
+  - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark-Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games)
+
 
 ## 🎮 My Games
 
