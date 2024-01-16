@@ -25,16 +25,20 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 - **Draid Bot (Retired):** My Discord Bot, [Draid](https://draid.vercel.app/goodbye), served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community. You can explore the [Goodbye page](https://draid.vercel.app/goodbye) for a nostalgic journey.
 
-  [![Discord](https://img.shields.io/discord/831828880016408637?style=for-the-badge&label=Community%20Server&labelColor=%23103e94&color=%2308204d)](https://draid.vercel.app/support)
-  [![Website](https://img.shields.io/website?up_message=ONLINE&up_color=%2310946a&down_message=OFFLINE&down_color=%23941010&url=https%3A%2F%2Fdraid.vercel.app&style=for-the-badge&label=Draid%20Dashboard&labelColor=%23103e94)](https://draid.vercel.app)
+  [![Discord](https://img.shields.io/discord/831828880016408637?style=for-the-badge&label=Community%20Server&labelColor=gray&color=blue)](https://draid.vercel.app/support)
+  [![Website](https://img.shields.io/website?up_message=ONLINE&up_color=%2310946a&down_message=OFFLINE&down_color=%23941010&url=https%3A%2F%2Fdraid.vercel.app&style=for-the-badge&label=Draid%20Dashboard&labelColor=gray)](https://draid.vercel.app)
 
 
 - **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
 
+  [![Last commit](https://img.shields.io/github/last-commit/ItsMateo20/Cloud?style=for-the-badge&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Cloud/commit/main) [![Release](https://img.shields.io/github/v/release/ItsMateo20/Cloud?include_prereleases&sort=date&display_name=tag&style=for-the-badge&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Cloud/releases/latest)
+  
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Cloud)
 
 
 - **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
+
+  [![Last commit](https://img.shields.io/github/last-commit/ItsMateo20/Facebook-Messenger-Data-Analysis?style=for-the-badge&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis/commit/main) [![Release](https://img.shields.io/github/v/release/ItsMateo20/Facebook-Messenger-Data-Analysis?include_prereleases&sort=date&display_name=tag&style=for-the-badge&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis/releases/latest)
 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
   
