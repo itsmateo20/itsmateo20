@@ -62,4 +62,4 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - Youtube: @ItsMateo20 ([ItsMateo20](https://www.youtube.com/@ItsMateo20))
 - And much more social media platforms using the username "ItsMateo20".
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
+  [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
