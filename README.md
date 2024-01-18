@@ -47,7 +47,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
   - **Notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/Notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/Notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Website](https://notespace.edu.pl/)
 
-  - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark-Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games)
+  - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games)
 
 
 ## 🎮 My Games
