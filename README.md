@@ -23,11 +23,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 ## 🌟 My Projects
 
-- **Draid Bot (Retired):** My Discord Bot, [Draid](https://draid.vercel.app/goodbye), served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community. You can explore the [Goodbye page](https://draid.vercel.app/goodbye) for a nostalgic journey.
-
-  [![Discord](https://img.shields.io/discord/831828880016408637?style=flat-square&label=Community%20Server&labelColor=gray&color=blue)](https://draid.vercel.app/support)
-  [![Website](https://img.shields.io/website?up_message=ONLINE&up_color=%2310946a&down_message=OFFLINE&down_color=%23941010&url=https%3A%2F%2Fdraid.vercel.app&style=flat-square&label=Draid%20Dashboard&labelColor=gray)](https://draid.vercel.app)
-
+- **Draid Bot (Retired):** My Discord Bot, [Draid](https://draid.vercel.app/goodbye), served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community. You can explore the [bot code here](https://github.com/ItsMateo20/DraidB) and [website code here](https://github.com/ItsMateo20/DraidW).
 
 - **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
 
