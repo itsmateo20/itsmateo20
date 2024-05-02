@@ -5,7 +5,7 @@
 
 I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript, EJS, Lua, and more. Currently, I'm working on a project called "Cloud Storage", you can check it out below!
 
-## 🚀 My Skills
+## 🚀 My Skills:
 
 - **Main languages:** [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.oracle.com/)
  [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -23,7 +23,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/ItsMateo20)
 
 
-## 🌟 My Projects
+## 🌟 My Projects:
 
 - **Draid Bot (Retired):** My Discord Bot, [Draid](https://draid.vercel.app/goodbye), served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.
 
@@ -51,11 +51,11 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
   - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games)
 
 
-## 🎮 My Games
+## 🎮 My Games:
 
 - **Our Dreams (ALPHA):** A [Roblox](https://www.roblox.com/) horror game built using the Roblox free-to-use program [Roblox Studio](https://create.roblox.com/), the game is focused about dreams that we all have had in our lives. [Check it out!](https://www.roblox.com/games/14422530814)
 
-## 📫 Let's Connect
+## 📫 Ways on contacting me:
 
 - Discord: @itsmateo20 ([ItsMateo20](https://discord.com/users/630812692659044352))
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
