@@ -3,7 +3,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ItsMateo20?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ItsMateo20&screen_name=ItsMateo20)
 
-I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript, EJS, Lua, and more. Currently, I'm working on a project called "Cloud Storage", you can check it out below!
+I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript, EJS, Lua, and more. Currently, I'm working on projects called ["Cloud Storage"](https://github.com/ItsMateo20/Cloud) and ["notespace"](https://notespace.edu.pl), you can check them out below!
 
 ## 🚀 My Skills:
 
