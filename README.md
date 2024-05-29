@@ -25,10 +25,12 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 ## 🌟 My Projects:
 
-- **Draid Bot (Retired):** My Discord Bot, [Draid](https://draid.vercel.app/goodbye), served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.
+- <details>
+  <summary><b>Draid Bot (Retired):</b> My Discord Bot, <a href="https://draid.vercel.app/goodbye">Draid</a>, served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.</summary>
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/DraidB)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/DraidW)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/DraidB)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/DraidW)
+  </details>
 
 - **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
 
@@ -44,11 +46,14 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
   
 
-- **Premid Presences:** Check out my presences on [PreMiD](https://premid.app/users/630812692659044352). [Github Pull Requests](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20)</summary>
+- <details>
+  <summary><b>Premid Presences:</b> Check out my presences on <a href="https://premid.app/users/630812692659044352"> PreMID</a>. <a href="https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20">Github Pull Requests</a></summary>
 
   - **notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Update PRs](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20+notespace) | [Website](https://notespace.edu.pl/)
 
   - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games)
+
+  </details>
 
 
 ## 🎮 My Games:
