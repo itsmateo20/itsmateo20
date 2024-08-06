@@ -1,24 +1,24 @@
-# Hi there, I'm Mateusz, and I'm a student! 👋
+# Hi there, I'm Mateusz, and I'm still a student! 👋
 
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ItsMateo20?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ItsMateo20&screen_name=ItsMateo20)
 
-I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript, EJS, Lua, and more. Currently, I'm working on projects called ["Cloud Storage"](https://github.com/ItsMateo20/Cloud) and ["notespace"](https://notespace.edu.pl), you can check them out below!
+I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript and TypeScript. Currently, I'm working on projects called ["Cloud Storage"](https://github.com/ItsMateo20/Cloud) and ["notespace"](https://notespace.edu.pl), you can check them out below!
 
 ## 🚀 My Skills:
 
 - **Main languages:** [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)](https://www.oracle.com/)
  [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
- [![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)](https://ejs.co/) [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-- **Other languages:** [![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+ [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
+- **Other languages:** [![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)](https://ejs.co/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 - **Tools:** [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Github Pages](https://img.shields.io/badge/-Github%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
  [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![Github Copliot](https://img.shields.io/badge/-Github%20Copliot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot) [![Static Badge](https://img.shields.io/badge/-GitBook-BBDDE5?style=flat-square&logo=gitbook&logoColor=black)](https://gitbook.com) [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white
-)](https://www.raspberrypi.com/)
+)](https://www.raspberrypi.com/) [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
 - **Applications:** [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
-- **Databases:** [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+- **Databases:** [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 - **Frameworks:** [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-- **Libraries:** [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=white)](https://react.dev/)
+- **Libraries:** [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 - **Runtimes:** [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Bun.sh](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
 - **Firmware:** [![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows10&logoColor=white)](https://www.microsoft.coml/software-download/windows10) [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/) [![Raspberry Pi OS](https://img.shields.io/badge/-Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/software)
 
@@ -53,7 +53,9 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
   - **notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Update PRs](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20+notespace) | [Website](https://notespace.edu.pl/)
 
-  - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games)
+  - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games/)
+ 
+  - **KOLEO Presence:** Enhance your journey with KOLEO, a comprehensive platform for train travel in Poland. Get real-time updates on your train routes, ticket purchases, and travel information through the dynamic Premid presence.. [Premid Presence}(https://premid.app/store/presences/KOLEO) | [Github Repository](https://github.com/PreMiD/Presences/tree/main/websites/K/KOLEO) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/8615) | [Wesbite](https://koleo.pl/)
 
   </details>
 
@@ -68,6 +70,6 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
 - Twitter: @ItsMateo20 ([It'sMateo20](https://twitter.com/ItsMateo20))
 - Youtube: @ItsMateo20 ([ItsMateo20](https://www.youtube.com/@ItsMateo20))
-- And much more social media platforms using the username "ItsMateo20".
+- And much more social media platforms using the username "ItsMateo20" or "xCzepek".
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
