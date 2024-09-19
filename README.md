@@ -15,12 +15,12 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Github Pages](https://img.shields.io/badge/-Github%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
  [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![Github Copliot](https://img.shields.io/badge/-Github%20Copliot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot) [![Static Badge](https://img.shields.io/badge/-GitBook-BBDDE5?style=flat-square&logo=gitbook&logoColor=black)](https://gitbook.com) [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white
 )](https://www.raspberrypi.com/) [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
-- **Applications:** [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/) [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 - **Databases:** [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 - **Frameworks:** [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 - **Libraries:** [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 - **Runtimes:** [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Bun.sh](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
-- **Firmware:** [![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows10&logoColor=white)](https://www.microsoft.coml/software-download/windows10) [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/) [![Raspberry Pi OS](https://img.shields.io/badge/-Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/software)
+<!-- - **Applications:** [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+- **Firmware:** [![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows10&logoColor=white)](https://www.microsoft.com/software-download/windows10) [![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/software-download/windows11) [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/) [![Raspberry Pi OS](https://img.shields.io/badge/-Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/software) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/ItsMateo20)
 
@@ -55,7 +55,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
   - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games/)
  
-  - **KOLEO Presence:** Enhance your journey with KOLEO, a comprehensive platform for train travel in Poland. Get real-time updates on your train routes, ticket purchases, and travel information through the dynamic Premid presence.. [Premid Presence}(https://premid.app/store/presences/KOLEO) | [Github Repository](https://github.com/PreMiD/Presences/tree/main/websites/K/KOLEO) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/8615) | [Wesbite](https://koleo.pl/)
+  - **KOLEO Presence:** Enhance your journey with KOLEO, a comprehensive platform for train travel in Poland. Get real-time updates on your train routes, ticket purchases, and travel information through the dynamic Premid presence.. [Premid Presence}(https://premid.app/store/presences/KOLEO) | [Github Repository](https://github.com/PreMiD/Presences/tree/main/websites/K/KOLEO) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/8615) | [Website](https://koleo.pl/)
 
   </details>
 
@@ -63,6 +63,10 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 ## 🎮 My Games:
 
 - **Our Dreams (ALPHA):** A [Roblox](https://www.roblox.com/) horror game built using the Roblox free-to-use program [Roblox Studio](https://create.roblox.com/), the game is focused about dreams that we all have had in our lives. [Check it out!](https://www.roblox.com/games/14422530814)
+
+## 🧑‍🤝‍🧑 Contributed Projects:
+
+- **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** [Website](https://notespace.edu.pl/)
 
 ## 📫 Ways on contacting me:
 
