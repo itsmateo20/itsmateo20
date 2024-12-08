@@ -2,7 +2,6 @@
 
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 ![](https://komarev.com/ghpvc/?username=ItsMateo20&style=for-the-badge)
-<!-- [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/ItsMateo20?style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/ItsMateo20&screen_name=ItsMateo20) -->
 
 I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript and TypeScript. Currently, I'm working on a project called ["Cloud Storage"](https://github.com/ItsMateo20/Cloud), you can check it out below!
 
@@ -20,8 +19,6 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - **Frameworks:** [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 - **Libraries:** [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 - **Runtimes:** [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Bun.sh](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
-<!-- - **Applications:** [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-- **Firmware:** [![Windows 10](https://img.shields.io/badge/-Windows%2010-0078D6?style=flat-square&logo=windows10&logoColor=white)](https://www.microsoft.com/software-download/windows10) [![Windows 11](https://img.shields.io/badge/-Windows%2011-0078D6?style=flat-square&logo=windows11&logoColor=white)](https://www.microsoft.com/software-download/windows11) [![Debian](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/) [![Raspberry Pi OS](https://img.shields.io/badge/-Raspberry%20Pi%20OS-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/software) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/ItsMateo20)
 
