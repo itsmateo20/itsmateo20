@@ -1,9 +1,9 @@
 # Hi there, I'm Mateusz, and I'm a student! 👋
 
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
-![](https://komarev.com/ghpvc/?username=ItsMateo20&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=itsmateo20&style=for-the-badge)
 
-I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript and TypeScript. Currently, I'm working on a project called ["Cloud Storage"](https://github.com/ItsMateo20/Cloud), you can check it out below!
+I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript and TypeScript. Currently, I'm working on a project called ["Cloud Storage"](https://github.com/itsmateo20/Cloud), you can check it out below!
 
 ## 🚀 My Skills:
 
@@ -20,7 +20,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - **Libraries:** [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
 - **Runtimes:** [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Bun.sh](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsMateo20&exclude_repo=ItsMateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/ItsMateo20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmateo20&exclude_repo=itsmateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/itsmateo20)
 
 
 ## 🌟 My Projects:
@@ -28,28 +28,28 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - <details>
   <summary><b>Draid Bot (Retired):</b> My Discord Bot, <a href="https://draid.vercel.app/goodbye">Draid</a>, served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.</summary>
 
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/DraidB)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/DraidW)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/DraidB)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/DraidW)
   </details>
 
-- **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/ItsMateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
+- **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/itsmateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
 
-  [![Last commit](https://img.shields.io/github/last-commit/ItsMateo20/Cloud?style=flat-square&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Cloud/commit/main) [![Release](https://img.shields.io/github/v/release/ItsMateo20/Cloud?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Cloud/releases/latest)
+  [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Cloud?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Cloud/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Cloud?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Cloud/releases/latest)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Cloud)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/Cloud)
 
 
-- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
+- **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
-  [![Last commit](https://img.shields.io/github/last-commit/ItsMateo20/Facebook-Messenger-Data-Analysis?style=flat-square&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis/commit/main) [![Release](https://img.shields.io/github/v/release/ItsMateo20/Facebook-Messenger-Data-Analysis?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis/releases/latest)
+  [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Facebook-Messenger-Data-Analysis?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Facebook-Messenger-Data-Analysis?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis/releases/latest)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ItsMateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/ItsMateo20/Facebook-Messenger-Data-Analysis)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis)
   
 
 - <details>
-  <summary><b>Premid Presences:</b> Check out my presences on <a href="https://premid.app/users/630812692659044352"> PreMID</a>. <a href="https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20">Github Pull Requests</a></summary>
+  <summary><b>Premid Presences:</b> Check out my presences on <a href="https://premid.app/users/630812692659044352"> PreMID</a>. <a href="https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3Aitsmateo20">Github Pull Requests</a></summary>
 
-  - **notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Update PRs](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3AItsMateo20+notespace) | [Website](https://notespace.edu.pl/)
+  - **notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Update PRs](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3Aitsmateo20+notespace) | [Website](https://notespace.edu.pl/)
 
   - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games/)
  
@@ -68,11 +68,11 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 ## 📫 Ways on contacting me:
 
-- Discord: @itsmateo20 ([ItsMateo20](https://discord.com/users/630812692659044352))
+- Discord: @itsmateo20 ([itsmateo20](https://discord.com/users/630812692659044352))
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
-- Twitter: @ItsMateo20 ([It'sMateo20](https://twitter.com/ItsMateo20))
-- Youtube: @ItsMateo20 ([ItsMateo20](https://www.youtube.com/@ItsMateo20))
-- And much more social media platforms using the username "ItsMateo20" or "xCzepek".
+- Twitter: @itsmateo20 ([It'sMateo20](https://twitter.com/itsmateo20))
+- Youtube: @itsmateo20 ([itsmateo20](https://www.youtube.com/@itsmateo20))
+- And much more social media platforms using the username "itsmateo20" or "xCzepek".
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
 ![](https://hit.yhype.me/github/profile?account_id=84156177)
