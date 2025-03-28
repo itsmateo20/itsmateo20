@@ -49,8 +49,6 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 - <details>
   <summary><b>Premid Presences:</b> Check out my presences on <a href="https://premid.app/users/630812692659044352"> PreMID</a>. <a href="https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3Aitsmateo20">Github Pull Requests</a></summary>
 
-  - **notespace Presence:** Crafting a dynamic presence for Premid to showcase real-time activities on the Notespace e-learning platform. Publicly accessible for everyone to enhance their online presence. [Premid Presence](https://premid.app/store/presences/notespace) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/N/notespace) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7921) | [Update PRs](https://github.com/PreMiD/Presences/pulls?q=is%3Apr+author%3Aitsmateo20+notespace) | [Website](https://notespace.edu.pl/)
-
   - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games/)
  
   - **KOLEO Presence:** Enhance your journey with KOLEO, a comprehensive platform for train travel in Poland. Get real-time updates on your train routes, ticket purchases, and travel information through the dynamic Premid presence.. [Premid Presence}(https://premid.app/store/presences/KOLEO) | [Github Repository](https://github.com/PreMiD/Presences/tree/main/websites/K/KOLEO) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/8615) | [Website](https://koleo.pl/)
@@ -64,13 +62,13 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 ## 🧑‍🤝‍🧑 Contributed Projects:
 
-- **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** [Website](https://notespace.edu.pl/) | [App](https://notespace.edu.pl/app)
+- **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** ~~[Website](https://notespace.edu.pl/) | [App](https://notespace.edu.pl/app)~~ **(12.2022 - 12.2025)**
 
 ## 📫 Ways on contacting me:
 
 - Discord: @itsmateo20 ([itsmateo20](https://discord.com/users/630812692659044352))
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
-- Twitter: @itsmateo20 ([It'sMateo20](https://twitter.com/itsmateo20))
+- Twitter: @itsmateo20 ([itsmateo20](https://twitter.com/itsmateo20))
 - Youtube: @itsmateo20 ([itsmateo20](https://www.youtube.com/@itsmateo20))
 - And much more social media platforms using the username "itsmateo20" or "xCzepek".
 
