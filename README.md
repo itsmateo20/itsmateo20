@@ -7,18 +7,41 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
 ## 🚀 My Skills:
 
-- **Main languages:** [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.oracle.com/)
- [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
- [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
-- **Other languages:** [![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) [![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)](https://ejs.co/) [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-- **Tools:** [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
- [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![Github Pages](https://img.shields.io/badge/-Github%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/)
- [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) [![Github Copliot](https://img.shields.io/badge/-Github%20Copliot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot) [![Static Badge](https://img.shields.io/badge/-GitBook-BBDDE5?style=flat-square&logo=gitbook&logoColor=black)](https://gitbook.com) [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white
-)](https://www.raspberrypi.com/) [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
-- **Databases:** [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) [![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
-- **Frameworks:** [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) [![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-- **Libraries:** [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/) [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-- **Runtimes:** [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Bun.sh](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
+- **Main languages:**  
+  [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://www.oracle.com/) 
+  [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
+  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) 
+  [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
+
+- **Other languages / formats:**  
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
+  [![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) 
+  [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html) 
+  [![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)](https://ejs.co/)
+- **Tools:**  
+  [![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/) 
+  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) 
+  [![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/) 
+  [![GitHub Copilot](https://img.shields.io/badge/-Github%20Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot) 
+  [![GitHub Pages](https://img.shields.io/badge/-Github%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white)](https://pages.github.com/) 
+  [![GitBook](https://img.shields.io/badge/-GitBook-BBDDE5?style=flat-square&logo=gitbook&logoColor=black)](https://gitbook.com) 
+  [![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.com/) 
+  [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://figma.com/)
+- **Databases:**  
+  [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
+  [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://www.sqlite.org/) 
+  [![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
+- **Frameworks:**  
+  [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) 
+  [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) 
+  [![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
+- **Libraries:**  
+  [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) 
+  [![Discord.js](https://img.shields.io/badge/-Discord.js-000000?style=flat-square&logo=discord&logoColor=white)](https://discord.js.org/)
+- **Runtimes:**  
+  [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
+  [![Bun](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmateo20&exclude_repo=itsmateo20&langs_count=10&layout=compact&theme=github_dark_dimmed&show_icons=true)](https://github.com/itsmateo20)
 
@@ -82,3 +105,8 @@ _"IF GOD EXISTS IT'S FUCKING ME"_<br>
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
 ![](https://hit.yhype.me/github/profile?account_id=84156177)
+
+
+---
+
+<p style="font-size: 4px;"><b>Made with ❤️ by Mateusz (itsmateo20)</b></p>
