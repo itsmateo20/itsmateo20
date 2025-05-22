@@ -51,7 +51,7 @@ I'm a developer who codes for fun and because most of the time I'm bored, specia
 
   - **Emberspark Games Presence:** Experience the creations of Emberspark Games, a development team dedicated to crafting games and mods. Dive into their dynamic Premid presence for real-time updates on projects. [Premid Presence](https://premid.app/store/presences/Emberspark%20Games) | [GitHub Repository](https://github.com/PreMiD/Presences/tree/main/websites/E/Emberspark%20Games) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/7947) | [Website](https://emberspark.games/)
  
-  - **KOLEO Presence:** Enhance your journey with KOLEO, a comprehensive platform for train travel in Poland. Get real-time updates on your train routes, ticket purchases, and travel information through the dynamic Premid presence.. [Premid Presence}(https://premid.app/store/presences/KOLEO) | [Github Repository](https://github.com/PreMiD/Presences/tree/main/websites/K/KOLEO) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/8615) | [Website](https://koleo.pl/)
+  - **KOLEO Presence:** Enhance your journey with KOLEO, a comprehensive platform for train travel in Poland. Get real-time updates on your train routes, ticket purchases, and travel information through the dynamic Premid presence.. [Premid Presence](https://premid.app/store/presences/KOLEO) | [Github Repository](https://github.com/PreMiD/Presences/tree/main/websites/K/KOLEO) | [Github Rep PR](https://github.com/PreMiD/Presences/pull/8615) | [Website](https://koleo.pl/)
 
   </details>
 
