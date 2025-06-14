@@ -3,7 +3,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 ![](https://komarev.com/ghpvc/?username=itsmateo20&style=for-the-badge)
 
-I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript and TypeScript. Currently, I'm working on a project called ["Cloud Storage"](https://github.com/itsmateo20/Cloud), you can check it out below!
+I'm a developer who codes for fun and because most of the time I'm bored, specializing in JavaScript and TypeScript. Currently, I'm working on a project called ["Cloud Storage"](https://github.com/itsmateo20/Cloud/tree/new), you can check it out below!
 
 ## 🚀 My Skills:
 
