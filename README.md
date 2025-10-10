@@ -12,7 +12,6 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
   [![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) 
   [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/) 
   [![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)](https://www.lua.org/)
-
 - **Other languages / formats:**  
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) 
   [![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)](https://www.json.org/) 
@@ -33,7 +32,6 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
   [![Firebase](https://img.shields.io/badge/-Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)](https://firebase.google.com/)
 - **Frameworks:**  
   [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) 
-  [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/) 
   [![Next.js](https://img.shields.io/badge/-Next.js-%23000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 - **Libraries:**  
   [![React](https://img.shields.io/badge/-React-%2361DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev/) 
