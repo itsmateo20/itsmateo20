@@ -40,8 +40,8 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
   [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
   [![Bun](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=itsmateo20&show_icons=true&theme=github_dark_dimmed&line_height=20&custom_title=itsmateo20%20Github%20Stats)](https://github.com/itsmateo20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmateo20&exclude_repo=itsmateo20&langs_count=20&layout=compact&theme=github_dark_dimmed&card_width=467px)](https://github.com/itsmateo20)
+<!-- [![Stats](https://github-readme-stats.vercel.app/api?username=itsmateo20&show_icons=true&theme=github_dark_dimmed&line_height=20&custom_title=itsmateo20%20Github%20Stats)](https://github.com/itsmateo20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmateo20&exclude_repo=itsmateo20&langs_count=20&layout=compact&theme=github_dark_dimmed&card_width=467px)](https://github.com/itsmateo20) -->
 
 ## 🌟 My Projects:
 
