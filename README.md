@@ -97,7 +97,6 @@ _"IF GOD EXISTS IT'S FUCKING ME"_<br>
 - Discord: @itsmateo20 ([itsmateo20](https://discord.com/users/630812692659044352))
 - Instagram: @itsmateo20 ([Mateusz Starkiewicz](https://www.instagram.com/itsmateo20/))
 - Twitter: @itsmateo20 ([itsmateo20](https://twitter.com/itsmateo20))
-- Youtube: @itsmateo20 ([itsmateo20](https://www.youtube.com/@itsmateo20))
 - And much more social media platforms using the username "itsmateo20" or "xCzepek".
 
   [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
