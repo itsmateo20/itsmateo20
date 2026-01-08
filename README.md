@@ -89,6 +89,9 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 _"If you want a thing done well, **do it your self**"_<br>
 ~ _**Napoleon Bonaparte**_
 
+_"Keep your friends close, **but your enemies closer**."_<br>
+~ _**Sun Tzu, The Art of War**_
+
 _"IF GOD EXISTS IT'S FUCKING ME"_<br>
 ~ _**Rick Sanchez <ins>(C-137)</ins>**_
 
