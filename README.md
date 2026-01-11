@@ -58,6 +58,12 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Cloud)
 
+- **Librusio (UNFINISHED):** An unofficial Android application that allows students using the Librus Synergia system to view their grades, calendar, and messages in real time for free, unlike the official app, which requires a paid subscription to access real-time data and certain features.
+
+  [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Librusio?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Librusio/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Librusio?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Librusio/releases/latest)
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Librusio&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Librusio)
+
 
 - **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
