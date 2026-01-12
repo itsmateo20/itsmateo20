@@ -3,7 +3,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 ![](https://komarev.com/ghpvc/?username=itsmateo20&style=for-the-badge)
 
-I'm a developer who codes for fun and mostly out of boredom, specializing in JavaScript. I used to build my projects completely by hand, relying on documentation and resources like [stack**overflow**](https://stackoverflow.com/users/15983117/itsmateo20?tab=questions). But now that [GitHub Copilot](https://github.com/copilot) is available in VS Code, I’ve shifted more towards "vibe coding" — letting ideas flow while Copilot helps fill in the details. Currently, I'm working on a project called [**Cloud Storage**](https://github.com/itsmateo20/Cloud/tree/new), feel free to check it out!
+I'm a developer who codes for fun and mostly out of boredom, specializing in JavaScript. I used to build my projects completely by hand, relying on documentation and resources like [stack**overflow**](https://stackoverflow.com/users/15983117/itsmateo20?tab=questions). But now that [GitHub Copilot](https://github.com/copilot) is available in VS Code, I’ve shifted more towards "vibe coding" — letting ideas flow while Copilot helps fill in the details. Currently, I'm working on 2 projects called [**Cloud Storage**](https://github.com/itsmateo20/Cloud/tree/new) and [***Librusio***](https://github.com/itsmateo20/Librusio), feel free to check them out!
 
 ## 🚀 My Skills:
 
