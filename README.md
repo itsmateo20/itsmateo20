@@ -40,8 +40,8 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
   [![Node.js](https://img.shields.io/badge/-Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) 
   [![Bun](https://img.shields.io/badge/-Bun-%2314151a?style=flat-square&logo=bun&logoColor=white)](https://bun.sh/)
 
-<!-- [![Stats](https://github-readme-stats.vercel.app/api?username=itsmateo20&show_icons=true&theme=github_dark_dimmed&line_height=20&custom_title=itsmateo20%20Github%20Stats)](https://github.com/itsmateo20)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmateo20&exclude_repo=itsmateo20&langs_count=20&layout=compact&theme=github_dark_dimmed&card_width=467px)](https://github.com/itsmateo20) -->
+[![Stats](https://itsmateo20-profile-stats.vercel.app/api?username=itsmateo20&show_icons=true&theme=github_dark_dimmed&line_height=20&custom_title=itsmateo20%20Github%20Stats)](https://github.com/itsmateo20)
+[![Top Langs](https://itsmateo20-profile-stats.vercel.app/api/top-langs/?username=itsmateo20&exclude_repo=itsmateo20&langs_count=20&layout=compact&theme=github_dark_dimmed&card_width=467px)](https://github.com/itsmateo20)
 
 ## 🌟 My Projects:
 
@@ -49,13 +49,13 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
   [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Cloud?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Cloud/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Cloud?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Cloud/releases/latest)
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Cloud)
+  [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=itsmateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Cloud)
 
 - **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
   [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Facebook-Messenger-Data-Analysis?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Facebook-Messenger-Data-Analysis?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis/releases/latest)
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis)
+  [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=itsmateo20&repo=Facebook-Messenger-Data-Analysis&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis)
   
 
 - <details>
@@ -81,12 +81,12 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
   - **Draid Bot (DISCONTINUED):** My Discord Bot, <a href="https://draid.vercel.app/goodbye">Draid</a>, served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.
 
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/DraidB)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=500px)](https://github.com/itsmateo20/DraidW)
+    [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/DraidB)
+    [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=500px)](https://github.com/itsmateo20/DraidW)
 
   - **Librusio (DISCONTINUED):** An unofficial Android application that allows students using the Librus Synergia system to view their grades, calendar, and messages in real time for free, unlike the official app, which requires a paid subscription to access real-time data and certain features.
     
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Librusio&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Librusio)
+    <!-- [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=itsmateo20&repo=Librusio&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Librusio) -->
  
   </details>
 
