@@ -3,7 +3,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 ![](https://komarev.com/ghpvc/?username=itsmateo20&style=for-the-badge)
 
-I'm a developer who codes for fun and mostly out of boredom, specializing in JavaScript. I used to build my projects completely by hand, relying on documentation and resources like [stack**overflow**](https://stackoverflow.com/users/15983117/itsmateo20?tab=questions). But now that [GitHub Copilot](https://github.com/copilot) is available in VS Code, I’ve shifted more towards "vibe coding" — letting ideas flow while Copilot helps fill in the details. Currently, I'm working on 2 projects called [**Cloud Storage**](https://github.com/itsmateo20/Cloud/tree/new) and [***Librusio***](https://github.com/itsmateo20/Librusio), feel free to check them out!
+I'm a developer who codes for fun and mostly out of boredom, specializing in JavaScript. I used to build my projects completely by hand, relying on documentation and resources like [stack**overflow**](https://stackoverflow.com/users/15983117/itsmateo20?tab=questions). But now that [GitHub Copilot](https://github.com/copilot) is available in VS Code, I’ve shifted more towards "vibe coding" — letting ideas flow while Copilot helps fill in the details. Currently, I'm working on 2 projects called [**Cloud Storage**](https://github.com/itsmateo20/Cloud/tree/new) and [***[REDACTED]***](https://github.com/404), feel free to check them out!
 
 ## 🚀 My Skills:
 
@@ -45,25 +45,11 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
 ## 🌟 My Projects:
 
-- <details>
-  <summary><b>Draid Bot (Retired):</b> My Discord Bot, <a href="https://draid.vercel.app/goodbye">Draid</a>, served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.</summary>
-
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/DraidB)
-    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=500px)](https://github.com/itsmateo20/DraidW)
-  </details>
-
 - **Web Cloud Storage:** My web cloud storage system made from scratch used for accessing files from a drive through the web, which took about 3 weeks to create, and it's fully functional and [open-source](https://github.com/itsmateo20/Cloud). [preview website](https://itsmateo20.github.io/Cloud)
 
   [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Cloud?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Cloud/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Cloud?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Cloud/releases/latest)
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Cloud&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Cloud)
-
-- **Librusio (UNFINISHED):** An unofficial Android application that allows students using the Librus Synergia system to view their grades, calendar, and messages in real time for free, unlike the official app, which requires a paid subscription to access real-time data and certain features.
-
-  [![Last commit](https://img.shields.io/github/last-commit/itsmateo20/Librusio?style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Librusio/commit/main) [![Release](https://img.shields.io/github/v/release/itsmateo20/Librusio?include_prereleases&sort=date&display_name=tag&style=flat-square&labelColor=gray&color=blue)](https://github.com/itsmateo20/Librusio/releases/latest)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Librusio&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Librusio)
-
 
 - **Facebook Messenger Data Analysis:** A completed project that provides insightful information based on your data downloaded from Facebook Messenger. It includes details such as the number of words sent and call duration. [Github Repository](https://github.com/itsmateo20/Facebook-Messenger-Data-Analysis) | [Preview Website](https://itsmateo20.github.io/Facebook-Messenger-Data-Analysis).
 
@@ -81,6 +67,28 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
   </details>
 
+- <details>
+  <summary><b>Genius Lyrics:</b> Check out my added lyrics on <a href="https://genius.com/itsmateo20"> Genius</a>. I add lyrics to songs I listen to but aren't on Genius in my free time.</summary>
+
+  - **Plany - NLT (NICOTINE LOVER TEAM) ft. sonia** | [Lyrics](https://genius.com/Nicotine-lover-team-plany-lyrics) 
+  - **Hałas - KeliQ** | [Lyrics](https://genius.com/Keliq-haas-lyrics)
+  - **Meow - $even** | [Lyrics](https://genius.com/Even-pol-meow-lyrics)
+    
+  </details>
+
+- <details>
+  <summary><b>Discontinued projects</b></summary>
+
+  - **Draid Bot (DISCONTINUED):** My Discord Bot, <a href="https://draid.vercel.app/goodbye">Draid</a>, served over 40 servers from 2021 to 2023 and has now been retired. While it was an old project, Draid remains beloved by its community.
+
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidB&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/DraidB)
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=DraidW&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=500px)](https://github.com/itsmateo20/DraidW)
+
+  - **Librusio (DISCONTINUED):** An unofficial Android application that allows students using the Librus Synergia system to view their grades, calendar, and messages in real time for free, unlike the official app, which requires a paid subscription to access real-time data and certain features.
+    
+    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=itsmateo20&repo=Librusio&theme=github_dark_dimmed&show_owner=true&show_icons=true&card_width=600px)](https://github.com/itsmateo20/Librusio)
+ 
+  </details>
 
 ## 🎮 My Games:
 
@@ -101,6 +109,9 @@ _"Keep your friends close, **but your enemies closer**."_<br>
 _"IF GOD EXISTS IT'S FUCKING ME"_<br>
 ~ _**Rick Sanchez <ins>(C-137)</ins>**_
 
+_"**Zauważ mnie**, a zobaczysz, co straciłaś. 💔"_<br>
+~ _**Mateusz Starkiewicz (itsmateo20)**_
+
 ## 📫 Ways on contacting me:
 
 - Discord: @itsmateo20 ([itsmateo20](https://discord.com/users/630812692659044352))
@@ -108,7 +119,7 @@ _"IF GOD EXISTS IT'S FUCKING ME"_<br>
 - Twitter: @itsmateo20 ([itsmateo20](https://twitter.com/itsmateo20))
 - And much more social media platforms using the username "itsmateo20" or "xCzepek".
 
-  [![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
+[![Discord Presence](https://lanyard.cnrad.dev/api/630812692659044352)](https://discord.com/users/630812692659044352)
 ![](https://hit.yhype.me/github/profile?account_id=84156177)
 
 
