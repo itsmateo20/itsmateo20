@@ -96,7 +96,7 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
 ## 🧑‍🤝‍🧑 Contributed Projects:
 
-- **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** [Website](https://notespace.edu.pl/) | ~~[App](https://notespace.edu.pl/app)~~
+- **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** ~~[Website](https://notespace.edu.pl/)~~ | ~~[App](https://notespace.edu.pl/app)~~
 
 ## 🚩 Quotes:
 
