@@ -3,7 +3,7 @@
 [![Twitch Status](https://img.shields.io/twitch/status/itsmateo20?style=for-the-badge&labelColor=%23431094&color=%23250952)](https://www.twitch.tv/itsmateo20)
 ![](https://komarev.com/ghpvc/?username=itsmateo20&style=for-the-badge)
 
-I'm a developer who codes for fun and mostly out of boredom, specializing in JavaScript. I used to build my projects completely by hand, relying on documentation and resources like [stack**overflow**](https://stackoverflow.com/users/15983117/itsmateo20?tab=questions). But now that [GitHub Copilot](https://github.com/copilot) is available in VS Code, I’ve shifted more towards "vibe coding" — letting ideas flow while Copilot helps fill in the details. Currently, I'm working on 2 projects called [**Cloud Storage**](https://github.com/itsmateo20/Cloud/tree/new) and [***[REDACTED]***](https://github.com/404), feel free to check them out!
+I'm a developer who codes for fun and mostly out of boredom, specializing in JavaScript. I used to build my projects completely by hand, relying on documentation and resources like [Stack **Overflow**](https://stackoverflow.com/users/15983117/itsmateo20?tab=questions). But now that [GitHub Copilot](https://github.com/features/copilot) is available in VS Code as a [extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot), I’ve shifted more towards "vibe coding" — letting ideas flow while Copilot helps fill in the details. Currently, I'm working on a project called [**Cloud Storage**](https://github.com/itsmateo20/Cloud/tree/new), feel free to check it out!
 
 ## 🚀 My Skills:
 
@@ -97,6 +97,8 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 ## 🧑‍🤝‍🧑 Contributed Projects:
 
 - **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** ~~[Website](https://notespace.edu.pl/)~~ | ~~[App](https://notespace.edu.pl/app)~~
+
+- **ui-utils:** Used [GPT-5.3 Codex](https://chatgpt.com) and [Claude Sonnet 4.6](https://claude.ai) in [GitHub Copilot](https://github.com/features/copilot) [Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) to convert this Fabric mod into a Forge mod for Minecraft. The mod was fully converted to "work," but I'm unsure if it functions as intended (I never used the Fabric version). I made this quick conversion for a friend when it was needed. **(12/03/2026)** [Forge version](https://github.com/itsmateo20/ui-utils-forge) | [Official source code](https://github.com/Coderx-Gamer/ui-utils) | [Official website](https://ui-utils.com/)
 
 ## 🚩 Quotes:
 
