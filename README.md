@@ -96,9 +96,15 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
 ## 🧑‍🤝‍🧑 Contributed Projects:
 
-- **notespace 2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** ~~[Website](https://notespace.edu.pl/)~~ | ~~[App](https://notespace.edu.pl/app)~~
+- **notespace 1.0-2.0:** I helped on the website application for notespace as a programmer, an educational tool helping students with organized notes, summary videos, flashcards, and tests. The platform offers free resources across subjects like math, Polish, biology, and much more, and allows users to contribute their own content for others to use to learn from. **(17.06.2024 - 15.09.2024)** ~~[Website](https://notespace.edu.pl/)~~ | ~~[App](https://notespace.edu.pl/app)~~
 
-- **ui-utils:** Used [GPT-5.3 Codex](https://chatgpt.com) and [Claude Sonnet 4.6](https://claude.ai) in [GitHub Copilot](https://github.com/features/copilot) [Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) to convert this Fabric mod into a Forge mod for Minecraft. The mod was fully converted to "work," but I'm unsure if it functions as intended (I never used the Fabric version). I made this quick conversion for a friend when it was needed. **(12/03/2026)** [Forge version](https://github.com/itsmateo20/ui-utils-forge) | [Official source code](https://github.com/Coderx-Gamer/ui-utils) | [Official website](https://ui-utils.com/)
+- <details>
+  <summary><b>ui-utils:</b> Used <a href="https://chatgpt.com">GPT-5.3 Codex</a> and <a href="https://claude.ai">Claude Sonnet 4.6</a> in <a href="https://github.com/features/copliot">GitHub Copilot</a> <a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot">Extension</a> to convert this Fabric mod into a Forge mod for Minecraft. The mod was fully converted to "work," but I'm unsure if it functions as intended (I never used the Fabric version). I made this quick conversion for a friend when it was needed. <b>(12/03/2026)</b> <a href="https://github.com/itsmateo20/ui-utils-forge">Forge version</a> | <a href="https://github.com/Coderx-Gamer/ui-utils">Official source code</a> | <a href="https://ui-utils.com">Official website</a></summary>
+  
+  [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=Coderx-Gamer&repo=ui-utils&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/Coderx-Gamer/ui-utils)
+  [![Readme Card](https://itsmateo20-profile-stats.vercel.app/api/pin/?username=itsmateo20&repo=ui-utils-forge&theme=github_dark_dimmed&show_owner=true&show_icons=true)](https://github.com/itsmateo20/ui-utils-forge)
+
+</details>
 
 ## 🚩 Quotes:
 
