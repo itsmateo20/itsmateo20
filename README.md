@@ -96,7 +96,7 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 ## ⭐ Recommended Services
 
 - **Rathole** – https://github.com/rathole-org/rathole  
-  A modern, high-performance tunneling solution I switched to from FRP. It significantly improved reliability and simplicity in my setup.  
+  A modern, high-performance tunneling solution I switched to from [FRP](https://github.com/fatedier/frp). It significantly improved reliability and simplicity in my setup.  
   It really helped streamline self-hosted services and port exposure without unnecessary complexity.
 
   The main downside is that it does **not include Proxy Protocol support built-in**, which can be important for forwarding the real client IP in scenarios like:
