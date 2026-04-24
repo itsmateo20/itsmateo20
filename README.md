@@ -103,9 +103,9 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
   - Minecraft servers
   - Services that rely on IP-based banning or logging
 
-  A practical workaround for this limitation is to place **HAProxy** in front of Rathole to handle Proxy Protocol and preserve the client IP properly.
+  A practical workaround for this limitation is to place [**HAProxy**](https://www.haproxy.org/) in front of Rathole to handle Proxy Protocol and preserve the client IP properly.
 
-  Despite that limitation, it's still a solid and efficient alternative for most tunneling use cases.
+  Despite that limitation, it's still a solid and efficient alternative for most tunneling use cases when your ISP blocks port forwarding.
 
 ## 🎮 My Games:
 
