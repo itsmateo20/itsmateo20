@@ -115,6 +115,37 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
 
   Despite that limitation, it's still a solid and efficient alternative for most tunneling use cases when your ISP blocks port forwarding.
 
+- **Raspberry Pi MOTD** – [https://github.com/ar51an/raspberrypi-motd](https://github.com/ar51an/raspberrypi-motd)
+  A lightweight, highly efficient dynamic Message of the Day (MOTD) script designed specifically for headless Raspberry Pi setups.
+  It replaces the default, plain login screen with a clean, beautifully formatted dashboard that provides critical system metrics right at authentication.
+  
+  It significantly improves server monitoring and vibe by elegantly displaying real-time stats like CPU temperature, memory usage, active processes, and storage without forcing you to manually run diagnostic commands.
+  
+  To make the management completely seamless, I placed the repository's `update.sh` file into a custom `sysscripts` folder in my user's root folder and set a custom alias in my `.bashrc` file to execute it.
+  This allows me to trigger system upgrades, handle cleanup, and automatically refresh the MOTD package cache with a single, simple command.
+  
+  Additionally, I disabled the default OpenSSH last login message (`PrintLastLog no` in `sshd_config`) so it wouldn't interfere with the much cleaner, custom last login display built into the new MOTD configuration files.
+  
+  It is an incredibly fast, pure-bash solution that adds massive quality-of-life value to anyone managing a Pi over SSH. <br/>
+  <details>
+    <summary>Here is how I configured mine (dropdown):</summary>
+
+    ## MOTD
+    <img src="https://github.com/itsmateo20/itsmateo20/blob/8e1e002ec8e4a23ca16562b7d7c9f005c74b9071/assets/raspberrypimotd.png"/>
+    
+    ## ``update.sh`` alias
+    ```bash
+    apt-update() {
+      ~/sysscripts/update.sh
+    }
+    ```
+    <img src="https://github.com/itsmateo20/itsmateo20/blob/0a7c08511e670b28c410c949f4230c882b57092b/assets/raspberrypiapt-updatecmd.png"/>
+  </details>
+  
+
+---
+  
+
 ## 🎮 My Games:
 
 - **Our Dreams (ALPHA):** A [Roblox](https://www.roblox.com/) horror game built using the Roblox free-to-use program [Roblox Studio](https://create.roblox.com/), the game is focused about dreams that we all have had in our lives. [Check it out!](https://www.roblox.com/games/14422530814)
