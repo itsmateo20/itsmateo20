@@ -135,9 +135,8 @@ I'm a developer who codes for fun and mostly out of boredom, specializing in Jav
     
     ## ``update.sh`` alias
     ```bash
-    apt-update() {
-      ~/sysscripts/update.sh
-    }
+    # .bashrc
+    alias apt-update="~/sysscripts/update.sh"
     ```
     <img src="https://github.com/itsmateo20/itsmateo20/blob/0a7c08511e670b28c410c949f4230c882b57092b/assets/raspberrypiapt-updatecmd.png"/>
   </details>
